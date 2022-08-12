@@ -1,5 +1,5 @@
 # funihub
-funi
+hub with scripts for random games that I find (mostly sims)
 
 ## loadstring
 ```lua
