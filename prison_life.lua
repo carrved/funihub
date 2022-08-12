@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("funi hub - Prison Life", "Midnight")
+local Window = Library.CreateLib("funi hub | Prison Life", "Midnight")
 local Player = Window:NewTab("Player")
 local Game = Window:NewTab("Game")
 
